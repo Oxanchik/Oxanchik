@@ -6,10 +6,12 @@ _Аналитик данных с более чем 15-летним опытом
 
 ## ⚙️ Ключевые навыки
 
-### 🛠 Инструменты
-- **Продвинутый:** MS Excel (сводные таблицы, Power Query), MS Access (базы данных, ETL)
-- **Базовый:** SQL, Power BI, Adobe Illustrator (визуализация)
-- **Изучаю:** Python (pandas, numpy, Django)
+### 🛠 Стек
+- Power BI, MS Excel (сводные таблицы, Power Query), MS Access, VBA
+- SQL, PostgreSQL
+- Python
+- Adobe Illustrator (визуализация)
+- Git, GitHub
 
 ### 📊 Экспертиза
 - Анализ продаж/затрат | Выявление аномалий данных | Прогнозирование спроса
@@ -72,9 +74,11 @@ _Data Analyst with over 15 years of experience in the industrial and agrifood se
 ## ⚙️ Core Skills
 
 ### 🛠 Tools
-- **Advanced:** MS Excel (Pivot Tables, Power Query), MS Access (Databases, ETL)
-- **Intermediate:** SQL, Power BI, Adobe Illustrator (visualization)
-- **Learning:** Python (pandas, numpy, Django)
+- Power BI, MS Excel (Pivot Tables, Power Query), MS Access, VBA
+- SQL, PostgreSQL
+- Python
+- Adobe Illustrator (visualization)
+- Git, GitHub
 
 ### 📊 Expertise
 - Sales/Cost Analysis | Data Anomaly Detection | Demand Forecasting
